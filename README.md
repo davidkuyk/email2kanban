@@ -2,7 +2,7 @@
 
 A Python program that takes the contents of an email and converts them to a Kanban card on notion.so.
 
-I often used this program for my tutoring business, and it definitely sped up my workflow. When clients would submit a scheduling request form, I would receive the email, but I would need to wait to contact the tutor and parent again to make sure the time and place they requested would work.
+I often used this program for my tutoring business, and it definitely sped up my workflow. When clients would submit a scheduling request form, I would receive the email, but I would need to wait to contact the tutor and parent again to make sure the time and place they requested would work before I confirmed.
 
 Most times, I would have several of these "back-and-forth" scheduling workflows going on simultaneously, and I needed a way to keep up with them so I wouldn't forget where each client was in the scheduling process.
 
