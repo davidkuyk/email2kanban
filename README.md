@@ -10,4 +10,6 @@ What this program allowed me to do was create a Kanban card on Notion for each n
 
 I could see this program being customized to help in many different situations: from students managing incoming assignments to salespeople managing leads.
 
+Please read all of the "IMPORTANT" comments in email2kanban.py to make 
+
 Of course, this program could be improved by automatically 1) checking the email server for incoming emails and 2) pasting the email into the file to process with Regex. Feel free to figure that out yourself. One day, I might get around to doing that.
